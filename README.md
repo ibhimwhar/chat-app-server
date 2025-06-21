@@ -25,6 +25,4 @@ It provides user authentication, user management, and private messaging APIs.
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd server
-npm install
+git clone https://github.com/ibhimwhar/chat-app-server.git
